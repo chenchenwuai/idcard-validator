@@ -12,7 +12,7 @@ const banner =
 `/*!
  *  ${pkg.name} v${pkg.version}
  *  (c) 2020-${new Date().getFullYear()} ${pkg.auther || ''}
- *  https://github.com/chenchenwuai/rollup-template.git
+ *  https://github.com/chenchenwuai/idcard-validator.git
  * Released under the MIT License.
  */`
 
@@ -56,9 +56,9 @@ export default {
       sourcemap: true
     },
     {
-			file: 'lib/websocket-reconnect-iife.js',
+			file: 'lib/id-card-validator-iife.js',
 			format: 'iife',
-			name: 'ReconnectingWebSocket'
+			name: 'IDCardValidator'
 		}
   ]
 }

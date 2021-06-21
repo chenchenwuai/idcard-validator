@@ -1,7 +1,7 @@
 {
-  "name": "rollup-template",
+  "name": "id-validator",
   "version": "0.1.0",
-  "description": "rollup template",
+  "description": "id-validator",
   "keywords": ["rollup"],
   "main": "lib/*.cjs.js",
   "module": "lib/*.esm.js",
@@ -23,14 +23,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chenchenwuai/rollup-template.git"
+    "url": "git+https://github.com/chenchenwuai/id-validator.git"
   },
   "author": "chenwuai",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chenchenwuai/rollup-template/issues"
+    "url": "https://github.com/chenchenwuai/id-validator/issues"
   },
-  "homepage": "https://github.com/chenchenwuai/rollup-template#readme",
+  "homepage": "https://github.com/chenchenwuai/id-validator#readme",
   "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.13.1",

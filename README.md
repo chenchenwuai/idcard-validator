@@ -1,6 +1,1 @@
-# rollup-template
-🚀 rollup-template 🌈.
-
-## usage
-```js
-```
+# id-validator
