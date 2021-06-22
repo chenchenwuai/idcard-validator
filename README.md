@@ -10,7 +10,7 @@ npm i idcard-validator -S
 
 ### 引入
 ```javascript
-import { calculateIDCard, isValid, calculateCode } from 'idcard-validator'
+import { calculateIDCard, isValid, calculateCode } from 'idcard-validator-china'
 
 const valid = isValid('101010202106225426') // 此身份证号为随机编造，无真实意义
 ```
