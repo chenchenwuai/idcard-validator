@@ -5,7 +5,7 @@
 
 ### 安装
 ```bash
-npm i idcard-validator -S
+npm i idcard-validator-china -S
 ```
 
 ### 引入
